@@ -15,3 +15,5 @@ If no Job ID is found, the app will tell you.
 Move the target by dragging it. Resize it from the edges or corners.
 
 Independent utility — not affiliated with Midjourney.
+
+An Icon is included and must be in the same folder as the .exe
