@@ -1,8 +1,7 @@
 MJ JOB OPENER
 
-https://github.com/gsab2/MJ-Job-Opener/releases/download/v1.0/MJ.Job.Opener.zip
+**[⬇ Download MJ Job Opener v1.0](https://github.com/gsab2/MJ-Job-Opener/releases/download/v1.0/MJ.Job.Opener.zip)**
 
-https://github.com/gsab2/MJ-Job-Opener/releases/tag/v1.0
 
 A small floating Window utility for finding / opening downloaded Midjourney images back in Midjourney's Web app
 
